@@ -1,0 +1,17 @@
+body {
+  margin: 20px;
+  padding: 0;
+}
+
+#main {
+  background-color: darkgray;
+  padding: 14px;
+  margin: 0;
+  border-radius: 16px;
+  text-align: center;
+}
+
+#img-div{
+  background-color: #ffffff;
+  padding: 14px;
+}
