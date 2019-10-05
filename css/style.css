@@ -15,3 +15,10 @@ body {
   background-color: #ffffff;
   padding: 14px;
 }
+#img-div img {
+  max-width : 100%;
+  display:block;
+  height: auto;
+  margin: 0 auto;
+
+}
